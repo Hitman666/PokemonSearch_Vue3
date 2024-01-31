@@ -61,7 +61,7 @@
 body {
   min-height: 100vh;
   color: var(--color-text);
-  background: var(--color-background);
+  background: linear-gradient(to right, #FDDF3C, #3B4CCA); /* Yellow to Blue gradient background */
   transition:
     color 0.5s,
     background-color 0.5s;
